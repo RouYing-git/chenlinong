@@ -1,0 +1,28 @@
+
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(°ÛÊå
+s	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(·ªõŸùÿÿÿÿ
+y
+java:S1488P"^Immediately return this expression instead of assigning it to the temporary variable "median".(ÎÅôØùÿÿÿÿ
+t
+java:S1488T"^Immediately return this expression instead of assigning it to the temporary variable "median".(´¼
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(÷¸¶
+@
+java:S1659L"%Declare "length2" on a separate line.( øâ¾øÿÿÿÿ
+B
+java:S1659S"'Declare "midIndex2" on a separate line.(¤œ€¿üÿÿÿÿ
+@
+java:S1659e"%Declare "length2" on a separate line.( øâ¾øÿÿÿÿ
+:
+java:S1659f"$Declare "index2" on a separate line.(ÍéÜ
+J
+java:S1481g"/Remove this unused "kthElement" local variable.(Ü¤üÀüÿÿÿÿ
+:
+java:S1659y"$Declare "pivot2" on a separate line.(±½òò
+W	java:S125…"<This block of commented-out lines of code should be removed.(†¡¤—øÿÿÿÿ
+R	java:S125‰"<This block of commented-out lines of code should be removed.(µÛÖ±
+p
+java:S5850“"TGroup parts of the regex together to make the intended operator precedence explicit.(›”™³ÿÿÿÿÿ
+T	java:S106”"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ
+T	java:S106š"9Replace this use of System.out or System.err by a logger.(š—“¿ÿÿÿÿÿ
